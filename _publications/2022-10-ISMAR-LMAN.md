@@ -10,5 +10,5 @@ paperurl: 'https://arxiv.org/abs/2209.01059'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 # code: 'https://github.com/Jinec98/DHGCN'
 ---
-
+More info...
 
