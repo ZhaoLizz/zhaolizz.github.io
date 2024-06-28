@@ -14,6 +14,11 @@ My research primarily focuses on 3D human avatar, neural rendering, and geometry
 
 Recent News
 ======
+
+[06/2024] I'm submitting my first Ph.D paper to IEEE TVCG. Hope everything goes well!
+
+[06/2024] We won the Beijing University Champion Cup (soccer)! 
+
 [06/2024] I serve as a reviewer in [IEEE ISMAR 2024](https://ieeeismar.org/) for both journal and conference track.
 
 [12/2023] Our paper "[DHGCN: Dynamic Hop Graph Convolution Network for Self-Supervised Point Cloud Learning](https://ojs.aaai.org/index.php/AAAI/article/view/29185)" accepted to AAAI 2024 (CCF-A)! [[News]](https://news.nwafu.edu.cn/xnxw/ff2fa3455f1b45c4b88eb3dac044aaf4.htm)
@@ -27,12 +32,16 @@ Recent News
 
 [06/2023] I serve as a reviewer in [IEEE ISMAR 2023](https://ieeeismar.org/).
 
+[12/2022] Our paper "[Grasping 3D Objects With Virtual Hand in VR Environment](https://dl.acm.org/doi/abs/10.1145/3574131.3574428)" accepted to ACM VRCAI 2022!
+
 [10/2022] Our paper "[In-Place Gestures Classification via Long-term Memory Augmented Network
 ](https://ieeexplore.ieee.org/abstract/document/9995299)" accepted to IEEE ISMAR 2022 (CCF-B)!
+
+[11/2021] I won the first prize in ChinaVR Challenge 2021!
 
 [10/2021] I won the National Scholarship for Graduate Students from the Ministry of Education. 
 
 [10/2021] Our paper "[Classifying In-Place Gestures with End-to-End Point Cloud Learning
 ](https://ieeexplore.ieee.org/abstract/document/9583828)" accpeted to IEEE ISMAR 2021 (CCF-B)! [[News](https://cie.nwafu.edu.cn/kxyj/kyjz/fcfb6fedccb4481a8317cbeac3761c6f.htm)]
 
-[3/2021] I won the first prize in the 2020 National Collegiate Computer Proficiency Challenge.[[News](https://news.nwafu.edu.cn/xnxw/6ac9826c94464cacb56d7ffbc22315d9.htm)]
+[3/2021] I won the first prize in the National Collegiate Computer Proficiency Challenge 2020![[News](https://news.nwafu.edu.cn/xnxw/6ac9826c94464cacb56d7ffbc22315d9.htm)]
