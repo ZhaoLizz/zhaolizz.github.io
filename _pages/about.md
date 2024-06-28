@@ -17,7 +17,7 @@ Recent News
 
 [06/2024] I'm submitting my first Ph.D paper to IEEE TVCG. Hope everything goes well!
 
-[06/2024] We won the Beijing College Champions Cup in football! I played as the starting right-back and completed all the matches.
+[06/2024] We won the championship of Beijing College Champions Cup (soccer)! I played as the starting right-back and completed all the matches.
 
 [06/2024] I serve as a reviewer in [IEEE ISMAR 2024](https://ieeeismar.org/) for both journal and conference track.
 
