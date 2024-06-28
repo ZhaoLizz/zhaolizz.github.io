@@ -2,7 +2,7 @@
 title: "DHGCN: Dynamic Hop Graph Convolution Network for Self-Supervised Point Cloud Learning"
 collection: publications
 permalink: /publication/2024-AAAI-DHGCN
-# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: [Jincen Jiang/*](https://www.jincenjiang.com/) , Lizhi Zhao/* , Xuequan Lu , Wei Hu , Imran Razzak , Meili Wang
 date: 2024-03-24
 venue: 'AAAI 2024'
 slidesurl: 'https://zhaolizz.github.io/files/DHGCN-AAAI24-poster.pdf'
