@@ -14,6 +14,12 @@ My research primarily focuses on 3D human avatar, neural rendering, and geometry
 
 Recent News
 ======
+[11/2024] I serve as a reviewer in IEEE TNNLS.
+
+[10/2024] I serve as a reviewer in IEEE Virtual Reality.
+
+[10/2024] I serve as a reviewer in China SCIENCES.
+
 [07/2024] I serve as a reviewer in [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/).
 
 [06/2024] I'm submitting my first Ph.D paper to IEEE TVCG. Hope everything goes well!
