@@ -14,6 +14,8 @@ My research primarily focuses on 3D human avatar, neural rendering, and geometry
 
 Recent News
 ======
+[12/2024] Our paper "GaussianHand: Real-time 3D Gaussian Rendering for Hand Avatar Animation" accepted to IEEE TVCG! 
+
 [11/2024] I serve as a reviewer in IEEE TNNLS.
 
 [10/2024] I serve as a reviewer in IEEE Virtual Reality.
@@ -21,8 +23,6 @@ Recent News
 [10/2024] I serve as a reviewer in China SCIENCES.
 
 [07/2024] I serve as a reviewer in [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/).
-
-[06/2024] I'm submitting my first Ph.D paper to IEEE TVCG. Hope everything goes well!
 
 [06/2024] We won the championship of Beijing College Champions Cup (soccer)! I played as the starting right-back and completed all the matches.
 
