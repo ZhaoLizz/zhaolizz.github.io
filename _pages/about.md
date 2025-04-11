@@ -14,6 +14,10 @@ My research primarily focuses on 3D human avatar, neural rendering, and geometry
 
 Recent News
 ======
+[04/2025] I serve as SPC in EuroXR 2025. 
+
+[04/2025] I serve as a reviewer in IEEE ISMAR and The Visual Computer. 
+
 [12/2024] Our paper "GaussianHand: Real-time 3D Gaussian Rendering for Hand Avatar Animation" accepted to IEEE TVCG! 
 
 [11/2024] I serve as a reviewer in IEEE TNNLS.
